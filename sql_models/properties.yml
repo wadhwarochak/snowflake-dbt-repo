@@ -1,0 +1,7 @@
+models:
+  - name: "rochak22"
+    config:
+      materialised: 'table'
+  - name: "users_dbt11"
+    config:
+      materialised: 'view'
